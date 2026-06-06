@@ -1,14 +1,14 @@
 # CampusLink
 CampusLink is a student-focused peer-to-peer (C2C) e-commerce web application designed to connect university students through a trusted campus marketplace. The platform enables students to buy, sell, and trade second-hand goods within their academic community, addressing the widespread need for affordable access to everyday essentials.
- <br>
+ <br><br>
 The core problem CampusLink solves is a practical one. University students frequently require textbooks, electronics, clothing, stationery, and other items but are often constrained by limited budgets. Traditional retail options are expensive, and general marketplace platforms like Facebook Marketplace or Gumtree lack the trust and community focus that a student-specific environment can offer. CampusLink fills this gap by creating a closed, verified marketplace accessible only to registered students from recognised South African universities.
- 
-To ensure platform integrity, CampusLink uses institutional email verification during registration, meaning only students with valid university email addresses can create accounts. This adds a layer of trust that distinguishes it from open public marketplaces, as all users are confirmed members of an academic institution.
  <br>
+To ensure platform integrity, CampusLink uses institutional email verification during registration, meaning only students with valid university email addresses can create accounts. 
+<br>This adds a layer of trust that distinguishes it from open public marketplaces, as all users are confirmed members of an academic institution.
 The platform is built using PHP and MySQL and offers a comprehensive set of features supporting the full transaction lifecycle. Buyers can browse and search product listings, save items to a wishlist, add products to a cart, and place orders. Sellers can create, edit, and manage their own listings, monitor inventory, and receive order notifications. A built-in messaging system allows buyers and sellers to communicate directly, while a review system enables users to leave feedback after completed transactions.
- 
+ <br><br>
 CampusLink also includes an administration layer through a dedicated admin dashboard. Administrators can manage user accounts and roles, moderate product listings, review and resolve fraud reports, and monitor platform statistics, ensuring the marketplace remains safe and functional for its community.
  
 The platform is designed with mobile responsiveness in mind, recognising that most students access the web primarily through their smartphones. The interface is clean, intuitive, and styled consistently to provide a professional user experience.
- <br>
+<br><br>
 Overall, CampusLink represents a practical, community-driven solution to a real student problem, combining accessibility, security, and functionality into a single cohesive platform built specifically for the South African student market
